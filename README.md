@@ -19,7 +19,7 @@
 |---|---|
 | **Trabalho** | Algoritmos: Atividade 01 — Atividade em sala 03/03/26 |
 | **Professor** | Ricardo Alves |
-| **Aluno(a)** | Yran Augusto |
+| **Aluno** | Yran Augusto |
 | **Data** | 04/03/2026 |
 
 ---
